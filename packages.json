@@ -969,8 +969,8 @@
       "tailrec",
       "transformers"
     ],
-    "repo": "https://github.com/slamdata/purescript-io.git",
-    "version": "v5.0.0"
+    "repo": "https://github.com/ajnsit/purescript-io.git",
+    "version": "v5.0.0-patch1"
   },
   "jack": {
     "dependencies": [
