@@ -678,8 +678,8 @@
       "transformers",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/purescript/purescript-free.git",
-    "version": "v4.2.0"
+    "repo": "https://github.com/ajnsit/purescript-free.git",
+    "version": "v4.2.0-concur"
   },
   "freeap": {
     "dependencies": [
