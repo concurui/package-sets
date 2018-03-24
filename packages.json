@@ -1714,8 +1714,8 @@
       "nullable",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/purescript-contrib/purescript-react.git",
-    "version": "v4.4.0"
+    "repo": "https://github.com/ajnsit/purescript-react.git",
+    "version": "v5.1.0-concur"
   },
   "react-dom": {
     "dependencies": [
@@ -1724,7 +1724,7 @@
       "react"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-react-dom.git",
-    "version": "v4.1.0"
+    "version": "v5.0.0"
   },
   "reactnative": {
     "dependencies": [
