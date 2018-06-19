@@ -1027,6 +1027,28 @@
     "repo": "https://github.com/purescript/purescript-random.git",
     "version": "v4.0.0"
   },
+  "react": {
+    "dependencies": [
+      "effect",
+      "exceptions",
+      "prelude",
+      "maybe",
+      "nullable",
+      "unsafe-coerce",
+      "typelevel-prelude"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-react.git",
+    "version": "v6.0.0"
+  },
+  "react-dom": {
+    "dependencies": [
+      "effect",
+      "react",
+      "web-dom"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-react-dom.git",
+    "version": "v6.0.0"
+  },
   "record": {
     "dependencies": [
       "functions",
